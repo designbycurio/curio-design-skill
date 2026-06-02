@@ -3,7 +3,7 @@
 **English** · [中文](README.zh-CN.md)
 
 > A design library for AI agents.
-> 20 free designs bundled · 500+ more at [designbycurio.com](https://designbycurio.com).
+> 30 free designs bundled · 610+ more at [designbycurio.com](https://designbycurio.com).
 
 <table>
 <tr>
@@ -34,6 +34,20 @@
 <td align="center" width="20%"><a href="https://designbycurio.com/vaporwave-tumblr-2012"><img src="https://designbycurio.com/samples/vaporwave-tumblr-2012.png" width="100%"/><br/><sub><b>Vaporwave</b></sub></a></td>
 <td align="center" width="20%"><a href="https://designbycurio.com/y2k-aqua-2000"><img src="https://designbycurio.com/samples/y2k-aqua-2000.png" width="100%"/><br/><sub><b>Y2K Aqua</b></sub></a></td>
 </tr>
+<tr>
+<td align="center" width="20%"><a href="https://designbycurio.com/brutalist-web-2014"><img src="https://designbycurio.com/samples/brutalist-web-2014.png" width="100%"/><br/><sub><b>Brutalist Web</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/caterpillar-construction-yellow-1925"><img src="https://designbycurio.com/samples/caterpillar-construction-yellow-1925.png" width="100%"/><br/><sub><b>Caterpillar</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/de-stijl-mondrian"><img src="https://designbycurio.com/samples/de-stijl-mondrian.png" width="100%"/><br/><sub><b>De Stijl</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/italian-gelato-pastel-rainbow"><img src="https://designbycurio.com/samples/italian-gelato-pastel-rainbow.png" width="100%"/><br/><sub><b>Italian Gelato</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/korean-bts-army-purple-2020"><img src="https://designbycurio.com/samples/korean-bts-army-purple-2020.png" width="100%"/><br/><sub><b>BTS Army Purple</b></sub></a></td>
+</tr>
+<tr>
+<td align="center" width="20%"><a href="https://designbycurio.com/peanuts-comic-schulz-1950"><img src="https://designbycurio.com/samples/peanuts-comic-schulz-1950.png" width="100%"/><br/><sub><b>Peanuts</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/persian-isfahan-carpet-medallion"><img src="https://designbycurio.com/samples/persian-isfahan-carpet-medallion.png" width="100%"/><br/><sub><b>Persian Carpet</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/terminal-vim-dracula-2014"><img src="https://designbycurio.com/samples/terminal-vim-dracula-2014.png" width="100%"/><br/><sub><b>Vim Dracula</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/the-matrix-green-code-1999"><img src="https://designbycurio.com/samples/the-matrix-green-code-1999.png" width="100%"/><br/><sub><b>The Matrix</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/windows-98-vaporwave"><img src="https://designbycurio.com/samples/windows-98-vaporwave.png" width="100%"/><br/><sub><b>Windows 98</b></sub></a></td>
+</tr>
 </table>
 
 <sub>Click any preview to see the full design system on designbycurio.com.</sub>
@@ -41,7 +55,7 @@
 ---
 
 **Curio** is a curated library of design systems — Bauhaus, Stripe,
-Muji, Memphis, vaporwave, Hokusai's ukiyo-e, Art Deco, and ~500
+Muji, Memphis, vaporwave, Hokusai's ukiyo-e, Art Deco, and ~640
 others. Each system is fully tokenized (colors, typography, spacing,
 shadows, components) **and** comes with a cultural origin story plus
 ready-to-use CSS techniques.
@@ -123,9 +137,9 @@ curio-design-skill/
 ├── CLAUDE.md  / AGENTS.md  ← 1-line @SKILL.md redirects (Claude Code / Codex)
 ├── LICENSE
 │
-├── designs/                ← 20 free design systems
+├── designs/                ← 30 free design systems
 │   ├── INDEX.md            ← Quick table with origin, mood, mode
-│   └── <id>.md             ← 20 full DESIGN.md files
+│   └── <id>.md             ← 30 full DESIGN.md files
 │
 └── examples/               ← Optional structural reference (NOT templates)
     ├── README.md
@@ -163,14 +177,14 @@ curio-design-skill/
 
 ## Want more designs?
 
-The 20 here are the free tier. The full Curio library has **500+**
+The 30 here are the free tier. The full Curio library has **640+**
 themes covering every major design movement, every era, every region,
 every aesthetic family.
 
 **[Browse the full gallery →](https://designbycurio.com)**
 
 Pro tier unlocks:
-- Full gallery (500+ themes)
+- Full gallery (640+ themes)
 - Share links → hand-off to any AI agent
 - Direct `DESIGN.md` and `tokens-studio.json` downloads
 - Quota for share-link generation
@@ -192,8 +206,8 @@ Curio fills.
 
 ## License
 
-MIT. The 20 bundled designs are free for any use (commercial,
-personal, modification). The 480+ Pro designs on
+MIT. The 30 bundled designs are free for any use (commercial,
+personal, modification). The 610+ Pro designs on
 designbycurio.com are licensed per-seat via subscription.
 
 ## Credits

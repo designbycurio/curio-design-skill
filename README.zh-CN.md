@@ -3,7 +3,7 @@
 [English](README.md) · **中文**
 
 > 给 AI 用的设计风格库。
-> 内置 20 套免费主题 · 完整 500+ 套在 [designbycurio.com](https://designbycurio.com)。
+> 内置 30 套免费主题 · 完整 640+ 套在 [designbycurio.com](https://designbycurio.com)。
 
 <table>
 <tr>
@@ -34,13 +34,27 @@
 <td align="center" width="20%"><a href="https://designbycurio.com/zh/vaporwave-tumblr-2012"><img src="https://designbycurio.com/samples/vaporwave-tumblr-2012.png" width="100%"/><br/><sub><b>蒸汽波</b></sub></a></td>
 <td align="center" width="20%"><a href="https://designbycurio.com/zh/y2k-aqua-2000"><img src="https://designbycurio.com/samples/y2k-aqua-2000.png" width="100%"/><br/><sub><b>Y2K Aqua</b></sub></a></td>
 </tr>
+<tr>
+<td align="center" width="20%"><a href="https://designbycurio.com/zh/brutalist-web-2014"><img src="https://designbycurio.com/samples/brutalist-web-2014.png" width="100%"/><br/><sub><b>粗野主义网页</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/zh/caterpillar-construction-yellow-1925"><img src="https://designbycurio.com/samples/caterpillar-construction-yellow-1925.png" width="100%"/><br/><sub><b>卡特彼勒工程黄</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/zh/de-stijl-mondrian"><img src="https://designbycurio.com/samples/de-stijl-mondrian.png" width="100%"/><br/><sub><b>风格派</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/zh/italian-gelato-pastel-rainbow"><img src="https://designbycurio.com/samples/italian-gelato-pastel-rainbow.png" width="100%"/><br/><sub><b>意式冰淇淋店</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/zh/korean-bts-army-purple-2020"><img src="https://designbycurio.com/samples/korean-bts-army-purple-2020.png" width="100%"/><br/><sub><b>BTS 紫</b></sub></a></td>
+</tr>
+<tr>
+<td align="center" width="20%"><a href="https://designbycurio.com/zh/peanuts-comic-schulz-1950"><img src="https://designbycurio.com/samples/peanuts-comic-schulz-1950.png" width="100%"/><br/><sub><b>花生漫画</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/zh/persian-isfahan-carpet-medallion"><img src="https://designbycurio.com/samples/persian-isfahan-carpet-medallion.png" width="100%"/><br/><sub><b>波斯地毯</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/zh/terminal-vim-dracula-2014"><img src="https://designbycurio.com/samples/terminal-vim-dracula-2014.png" width="100%"/><br/><sub><b>终端 Vim Dracula</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/zh/the-matrix-green-code-1999"><img src="https://designbycurio.com/samples/the-matrix-green-code-1999.png" width="100%"/><br/><sub><b>黑客帝国</b></sub></a></td>
+<td align="center" width="20%"><a href="https://designbycurio.com/zh/windows-98-vaporwave"><img src="https://designbycurio.com/samples/windows-98-vaporwave.png" width="100%"/><br/><sub><b>Win98 蒸汽波</b></sub></a></td>
+</tr>
 </table>
 
 <sub>点击任意预览图查看完整的设计系统。</sub>
 
 ---
 
-**Curio** 是一座精选设计风格库——包豪斯、Stripe、无印良品、孟菲斯、蒸汽波、北斋浮世绘、装饰艺术，以及另外约 500 套。每一套都是完整的 token 化设计系统（色彩、字体、间距、阴影、组件），**并且**附带文化考据和可直接使用的 CSS 技法。
+**Curio** 是一座精选设计风格库——包豪斯、Stripe、无印良品、孟菲斯、蒸汽波、北斋浮世绘、装饰艺术，以及另外约 640 套。每一套都是完整的 token 化设计系统（色彩、字体、间距、阴影、组件），**并且**附带文化考据和可直接使用的 CSS 技法。
 
 **本 skill** 给你的 AI agent 提供把任何一套 Curio 设计应用到任何 HTML 形态所需的一切——演示文稿、官网落地页、海报、报告、社交卡片、邮件、Dashboard，或者任何你能用 HTML 渲染的东西。你提需求，AI 装裱。
 
@@ -100,9 +114,9 @@ curio-design-skill/
 ├── CLAUDE.md  / AGENTS.md  ← 1 行 @SKILL.md redirect (Claude Code / Codex)
 ├── LICENSE
 │
-├── designs/                ← 20 套免费设计系统
+├── designs/                ← 30 套免费设计系统
 │   ├── INDEX.md            ← 简表 (出处 · 气质 · 明暗)
-│   └── <id>.md             ← 20 份完整 DESIGN.md
+│   └── <id>.md             ← 30 份完整 DESIGN.md
 │
 └── examples/               ← 可选的结构参考 (不是模板)
     ├── README.md
@@ -138,12 +152,12 @@ curio-design-skill/
 
 ## 想要更多设计?
 
-这 20 套是免费层。完整的 Curio 库有 **500+** 套主题,覆盖每个重要的设计流派、每个时代、每个地区、每种气质流派。
+这 30 套是免费层。完整的 Curio 库有 **640+** 套主题,覆盖每个重要的设计流派、每个时代、每个地区、每种气质流派。
 
 **[浏览完整画廊 →](https://designbycurio.com/zh/)**
 
 Pro 解锁:
-- 完整画廊 (500+ 主题)
+- 完整画廊 (640+ 主题)
 - 分享链接 → 可以直接交给任何 AI agent
 - 直接下载 `DESIGN.md` 和 `tokens-studio.json`
 - 分享链接生成额度
@@ -159,7 +173,7 @@ Curio 的核心信念:好设计应当是一座**库**,而不是一项**服务**�
 
 ## License
 
-MIT。20 套内置设计任何用途(商业 · 个人 · 二次创作)都免费。designbycurio.com 上的 480+ Pro 设计按席位订阅。
+MIT。30 套内置设计任何用途(商业 · 个人 · 二次创作)都免费。designbycurio.com 上的 610+ Pro 设计按席位订阅。
 
 ## Credits
 
