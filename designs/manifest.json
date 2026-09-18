@@ -1,0 +1,640 @@
+{
+  "verifiedAt": "2026-09-18",
+  "catalogUrl": "https://designbycurio.com/index.json",
+  "catalogSha256": "2c2d77955546997f71b75ae991be233b458ba858d6e602e6047fffb1d45cf3ae",
+  "sourceRevision": "fce5fcbeda640566c6fd0f296d597e50a83e0193",
+  "totalThemes": 2233,
+  "freeThemes": 105,
+  "designs": [
+    {
+      "id": "aboriginal-dot-painting",
+      "sourceSha256": "1d3d3eed6a76437d9c4bcba4c3dccf45591da875f1feb06d68e722e61156ab5c",
+      "bundledSha256": "823c8c31aaf5a1037c50730e0c92b20d5038f4397aef6786492d8b0689be7d1f",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "acid-house-smiley-1988",
+      "sourceSha256": "3187e98056415a98a4bb840be3c28ae96e553bb4fcbd45288b21e490a09c4961",
+      "bundledSha256": "13fcde256af5a80d4c9f26a19432fe95b26316a5e5c7fbad173ddbbdf6e6be6d",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "aesop-bottles",
+      "sourceSha256": "07868ab89691fe0f700ae8744976c74e805370f5838e62e9f8063c4910d4585b",
+      "bundledSha256": "07868ab89691fe0f700ae8744976c74e805370f5838e62e9f8063c4910d4585b",
+      "sourceTier": "free"
+    },
+    {
+      "id": "airbnb-2014",
+      "sourceSha256": "af13e98b6f41e562c50c5599f7b60ad6bd4bc225348efaf4c8cfb199f63087c0",
+      "bundledSha256": "af13e98b6f41e562c50c5599f7b60ad6bd4bc225348efaf4c8cfb199f63087c0",
+      "sourceTier": "free"
+    },
+    {
+      "id": "akan-adinkra-symbol-ghana",
+      "sourceSha256": "39258a6fb68186ee5cd9b7d67d296bcb21d1cedd13a939f9b433327e9b415437",
+      "bundledSha256": "b048dd7e8de6b80095e0ff800c79654647037c01f5f4de5d40b03b8b80aa3960",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "apple-fitness-rings-closed-2024",
+      "sourceSha256": "e6cc699f4b706b888156b7db3727312a4103914fe39a55f7a9452f156c43405b",
+      "bundledSha256": "00158ab9d1ede4bf2ab4f1306198277f09ebfc8c5d5117cea018fd8021fc8503",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "apple-liquid-glass-2024",
+      "sourceSha256": "b217235800c810f9440ec6137401cc8172d622fe8f617f1e8cf312d67419592f",
+      "bundledSha256": "b217235800c810f9440ec6137401cc8172d622fe8f617f1e8cf312d67419592f",
+      "sourceTier": "free"
+    },
+    {
+      "id": "art-brut-dubuffet-1948",
+      "sourceSha256": "1a3629e452514095f29bd0d8cdddac694f82e5d19980b4d5b4adb77fafde811b",
+      "bundledSha256": "e11eabc119c973f9d1fd0a76ece10f4843a7543a64df208e0aeaa5a570cedc6f",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "art-deco-jazz-age",
+      "sourceSha256": "8284d29f124fe675d6a51fd4de86dbdf535252b574450c080ad0ba9d0c11c120",
+      "bundledSha256": "8284d29f124fe675d6a51fd4de86dbdf535252b574450c080ad0ba9d0c11c120",
+      "sourceTier": "free"
+    },
+    {
+      "id": "art-nouveau-mucha",
+      "sourceSha256": "369006b2f0f83703ca96d2ff4704d11bf400d45a2bc9f8069549d1060b4fff2c",
+      "bundledSha256": "369006b2f0f83703ca96d2ff4704d11bf400d45a2bc9f8069549d1060b4fff2c",
+      "sourceTier": "free"
+    },
+    {
+      "id": "bauhaus-weimar",
+      "sourceSha256": "447ad7a34602087e37d01157c6cf1952339c1b93e10ab99d23c0b1736d32cf01",
+      "bundledSha256": "447ad7a34602087e37d01157c6cf1952339c1b93e10ab99d23c0b1736d32cf01",
+      "sourceTier": "free"
+    },
+    {
+      "id": "bollywood-poster-1970s",
+      "sourceSha256": "23a7559de12f7c65dd56a35c242213d0a9bb8bd1e2bdd336b9cbeca7a2c88d01",
+      "bundledSha256": "903071c215e6c07449235652a8261cb79711516f27c53b924f909735a5c80355",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "brutalist-web-2014",
+      "sourceSha256": "0a26ae803f1f8bb255035e02772c92759dbaf1c4166a64bd04320c2d4f89d03b",
+      "bundledSha256": "0a26ae803f1f8bb255035e02772c92759dbaf1c4166a64bd04320c2d4f89d03b",
+      "sourceTier": "free"
+    },
+    {
+      "id": "caterpillar-construction-yellow-1925",
+      "sourceSha256": "358beb2825339a97517ad3872cd508ae00af7b0600c252cd645d8ee7c5f59c53",
+      "bundledSha256": "b2db4a29eafe89847ae702fdd17eacff311d930451cc04de3d41e69133105a42",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "coca-cola-classic",
+      "sourceSha256": "0ba4ef1729ffc7aec33a7f14d89a1aee76b1d90ef94288f8f113a1b26b03bfc9",
+      "bundledSha256": "17de71476d18c7220e4826bc3ebc14be9c62ef1fc331f1f225e079bed851c78d",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "constructivism-russian",
+      "sourceSha256": "a235247a64ea9f3370c98e105403d17104bf4bd6d744d01002788a9a84e67373",
+      "bundledSha256": "a235247a64ea9f3370c98e105403d17104bf4bd6d744d01002788a9a84e67373",
+      "sourceTier": "free"
+    },
+    {
+      "id": "danish-ph5-louis-poulsen-1958",
+      "sourceSha256": "ecda552b82fae5cf7ae397e47202faa3f8db4ca986f6014eda6fd01b40e04178",
+      "bundledSha256": "533caecbbcbb2d43b9dcb08a86725986a4b13f1d19709e2242092fdf27b33c8c",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "de-stijl-mondrian",
+      "sourceSha256": "9ba9c7daab1d5814374e8592013ddf924a0800f61c3cefb3627a4ccac9cdd68c",
+      "bundledSha256": "9ba9c7daab1d5814374e8592013ddf924a0800f61c3cefb3627a4ccac9cdd68c",
+      "sourceTier": "free"
+    },
+    {
+      "id": "dieter-rams-braun",
+      "sourceSha256": "2ad6a154882afdab0945a4302d539a0b0c53cc2578974be5c65f2cd8972ceb74",
+      "bundledSha256": "3f039cb885686bc69b35d0b325634609db9df107c4872339a0b040033a92d4c3",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "discord-2024",
+      "sourceSha256": "fb5e75bd39e31e60d74de1b9a4f6c471a2913750831d69cf55c1d0ff77bb6cfa",
+      "bundledSha256": "fb5e75bd39e31e60d74de1b9a4f6c471a2913750831d69cf55c1d0ff77bb6cfa",
+      "sourceTier": "free"
+    },
+    {
+      "id": "doom-1993-id-shareware",
+      "sourceSha256": "487d6c4aca548577150456b2d49537d5cff0d44b3c0d22cccbb0b5713907d56c",
+      "bundledSha256": "8c757d2279d7e42d7401b8673fe25718a7fda6de77089b3b1718a412fb34f9a2",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "duolingo-2024",
+      "sourceSha256": "cf0bee555f98cd6bf7ef785c2fe5cca7bc6b82fad07394baa43ac62dd7891664",
+      "bundledSha256": "7fc233baa531d65c062496a96eadc61eef60b4fd6406eb0076865d254749878d",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "edo-ukiyo-e-hokusai",
+      "sourceSha256": "f25187e14ae87155d7c4f65b8614759249f5a83330a6b251b20a647320f86c2e",
+      "bundledSha256": "f25187e14ae87155d7c4f65b8614759249f5a83330a6b251b20a647320f86c2e",
+      "sourceTier": "free"
+    },
+    {
+      "id": "emoji-design-blob-noto-2013",
+      "sourceSha256": "92ed4cddafde17b26d9a341b4b22d9bb82f2446f3dca35a8f160306ae44a26d0",
+      "bundledSha256": "a435c69c20fd99280902ed7d1deff7459166487a98679d577332b5d7344a0ca8",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "etsy-handmade",
+      "sourceSha256": "1bfc3692af19fa996c4643be56d81be300758ef6f9a4c880b687c6de3ea6fe5a",
+      "bundledSha256": "1bfc3692af19fa996c4643be56d81be300758ef6f9a4c880b687c6de3ea6fe5a",
+      "sourceTier": "free"
+    },
+    {
+      "id": "fifties-diner-aqua-chrome",
+      "sourceSha256": "cc387662424db569da1bc60ae335f2c0a3734699f03c7f9d2724ddc70f9d429b",
+      "bundledSha256": "04678661ea5b5e0aa02cfaea0ed35b294f922d429fe15662efb00cec36d5f3c2",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "figma-2024",
+      "sourceSha256": "da4cc66b4d9ef9acafa32b510aa0434bc279ce0bb701073f76a6ade91e2fff45",
+      "bundledSha256": "da4cc66b4d9ef9acafa32b510aa0434bc279ce0bb701073f76a6ade91e2fff45",
+      "sourceTier": "free"
+    },
+    {
+      "id": "finnish-marimekko-unikko-1964",
+      "sourceSha256": "ce98f84787e339949636f0a7a5fd520902fc7987200a58ee5c02e18fb4ce3e7a",
+      "bundledSha256": "b1b1aff06a4dfd5c2c9ea026cd80f3a9e24e47de416fe2ac5c8e2dd8ba32a352",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "flat-design-ios7",
+      "sourceSha256": "10ec40fd88d4803a810be19bccabde285d34203a5d5d2c04ce052ac35555400e",
+      "bundledSha256": "10ec40fd88d4803a810be19bccabde285d34203a5d5d2c04ce052ac35555400e",
+      "sourceTier": "free"
+    },
+    {
+      "id": "frutiger-aero-2007",
+      "sourceSha256": "9b8ffcefd963d5f02d765784948ccbc22edc4de2c437a663cc7b74d293f2da06",
+      "bundledSha256": "9b8ffcefd963d5f02d765784948ccbc22edc4de2c437a663cc7b74d293f2da06",
+      "sourceTier": "free"
+    },
+    {
+      "id": "futura-typeface-renner-1927",
+      "sourceSha256": "d8705347438c611c9be9f082836e0d509735a0bcfcef894c75cec7507efb0620",
+      "bundledSha256": "d0f7d98c8cbf3aaeb2f1855cf54be31415e73ae6c8ffe2ce40b61bcf86ca17ea",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "german-expressionist-cinema-1920",
+      "sourceSha256": "55e2cad1f1c99dc784e4fd9ef5a605a2fee2489fda07e0e5885f567e2053e044",
+      "bundledSha256": "01d0ec1809ecbd7d67833eb67fd34d1bcbc74d4a7ed50ee1e0170df96aa42819",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "github-dark",
+      "sourceSha256": "92e9b68b7e7d59cc10fe6133e724d5f91dcf33677d6eb994ceeb771e0877a567",
+      "bundledSha256": "92e9b68b7e7d59cc10fe6133e724d5f91dcf33677d6eb994ceeb771e0877a567",
+      "sourceTier": "free"
+    },
+    {
+      "id": "glassmorphism-frosted-2020",
+      "sourceSha256": "36b7fcc44dac2638a471ff95609eeb8d0362593e90a7cae68d995a55961dc8ac",
+      "bundledSha256": "f2d9576086a49c620f15db315f1cc88ce0c7f9f6122b31455fec7ac0c9b71210",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "google-material-3",
+      "sourceSha256": "714338bbd6cb7a8018aea296c41fbd4765f5639b742793856a5158284dc0f5a0",
+      "bundledSha256": "714338bbd6cb7a8018aea296c41fbd4765f5639b742793856a5158284dc0f5a0",
+      "sourceTier": "free"
+    },
+    {
+      "id": "gould-hummingbird-plate-1861",
+      "sourceSha256": "cdaf115484a623c87d763a40707cc435ea876db714fa61db086cdaea6f602908",
+      "bundledSha256": "10bcad01f507db4da4c30e13ce455e8e583afc368d17e9f987fa29731ea8f0db",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "ikea-blue-yellow",
+      "sourceSha256": "4a62ed66453b13f004f07375d75686e6b0a8c8891306c333cc778f3508a7d63f",
+      "bundledSha256": "fddc6f090a511c440e3e40ec38970679c78ee8f8b3fff3d1b2c8e32d43664d4d",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "indonesian-batik-javanese",
+      "sourceSha256": "5d4fc6523cc9d05b1e64b6d4a382c491a46bdeb0f559db79f3e8eb830dfa0e4a",
+      "bundledSha256": "7aee32f39753105d6630199ee83545a5aa56d463d29790eaae7153daed661e8c",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "islamic-girih-tile-geometry",
+      "sourceSha256": "c035a05e64bea8d984ae77fbbb6c7f0b9ca44c3603231c82c363e4fa3bef8742",
+      "bundledSha256": "4f60dc0150290cd3c5c7b4cbcb71bbf0dcb2ebb6015f2cb21788d315f69727af",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "italian-gelato-pastel-rainbow",
+      "sourceSha256": "c3f5a828d0d060c16ee9992bfac285a573e0d7ca73da163f932f9954c435b1a3",
+      "bundledSha256": "338226e5dff021c832e91d741df93271d37dad73523229cbe480d0f5f5934022",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "japanese-kintsugi-urushi",
+      "sourceSha256": "185c032e92262d6a516f58014a0eac6b262e902085b7f1f9289aa9ca54153aad",
+      "bundledSha256": "0282c6cdabcfc11feb23d9af12ec8abfadc5dff3a2335c150384df8022c65aca",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "jurassic-park-1993",
+      "sourceSha256": "0ba8ebd57ffb73bf54f9df910ac582f23cb705f76fd0abc66a92012bc33b28f8",
+      "bundledSha256": "3b371c041de431218237bab6d374299acf1eafc68cc181d362ebfac354cc53c9",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "khmer-angkor-wat-relief",
+      "sourceSha256": "21a2ed8fd1b82fdff0617770f7d2200e64d24b438472aaed525fbee3fdc97667",
+      "bundledSha256": "527b81a3c01a6f11c727a8d6dfcd1379042953029e5c15b29d159c725b23fcb9",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "klarna-shopping",
+      "sourceSha256": "3c6fdeb736e09043f6fa3aa631f4b643c623cb91d4d5321bd52b313bce35da59",
+      "bundledSha256": "3c6fdeb736e09043f6fa3aa631f4b643c623cb91d4d5321bd52b313bce35da59",
+      "sourceTier": "free"
+    },
+    {
+      "id": "korean-bts-army-purple-2020",
+      "sourceSha256": "5fa7d5f5ff9fe6b22a087394c9faf772929476f2cb2a12b0ef90fbd3798836bb",
+      "bundledSha256": "b6c5adedc5b2ead364bcf51809413bec6b7d16fa8a07e6d8e23c9f4479462b4d",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "lego-classic",
+      "sourceSha256": "24c4aed85dc307b964864f15f847c5dbc6f9353a7afe140de92ca2f3822eb462",
+      "bundledSha256": "2bc592783feaede3c25546a90b75595b67f8fff0ed138ed84d77ad3ed941ad9e",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "linear-2024",
+      "sourceSha256": "db3d279cefd77b023721624c0fe4986e0d03bb5f6df1350b0fe2c5f1749d65dc",
+      "bundledSha256": "db3d279cefd77b023721624c0fe4986e0d03bb5f6df1350b0fe2c5f1749d65dc",
+      "sourceTier": "free"
+    },
+    {
+      "id": "london-underground-beck-1933",
+      "sourceSha256": "a95fa44ecfc9bf53eaa7b98cc1e5a6f457e9b5811611c93ce5415d137763ce2f",
+      "bundledSha256": "da1c19b2cf2d8da2e4ac7fecfb0e5fd37027c2f9a7732b7501130efcc19992b4",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "lucha-libre-poster",
+      "sourceSha256": "c45ce7e465d4ded84659a6a57481afa0a4348bf47a69fda5dd5ae3411bb160e8",
+      "bundledSha256": "c45ce7e465d4ded84659a6a57481afa0a4348bf47a69fda5dd5ae3411bb160e8",
+      "sourceTier": "free"
+    },
+    {
+      "id": "lufthansa-aicher-crane-1962",
+      "sourceSha256": "38df1b0019e6750be8d6dff9176afe6c65699f9dc994b2a3a479a4c0b6aa7cd6",
+      "bundledSha256": "a7830dfc90f3a15fc565b57a34452f7e16bca6af92dd31c1abf89deb007d846a",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "maori-koru-aotearoa",
+      "sourceSha256": "a4b432004022ec72b9681e7b478a48cb4c23bc262048d906c12b0aa690179381",
+      "bundledSha256": "a4b432004022ec72b9681e7b478a48cb4c23bc262048d906c12b0aa690179381",
+      "sourceTier": "free"
+    },
+    {
+      "id": "material-1-google",
+      "sourceSha256": "d97bd587354a8f6e841ff132ccf00fa4801b2352373636a7514b69336275f11d",
+      "bundledSha256": "d97bd587354a8f6e841ff132ccf00fa4801b2352373636a7514b69336275f11d",
+      "sourceTier": "free"
+    },
+    {
+      "id": "memphis-sottsass-1981",
+      "sourceSha256": "ee884c0c94bb01e14d78a4555da702de3230296b71c47ecdc17827142de17bf7",
+      "bundledSha256": "ee884c0c94bb01e14d78a4555da702de3230296b71c47ecdc17827142de17bf7",
+      "sourceTier": "free"
+    },
+    {
+      "id": "mercadolibre-yellow-2015",
+      "sourceSha256": "c0ab2e3e92b10ba0079d103dc6d3ae5ed3a7d29af09137f557addf9e1b9f2514",
+      "bundledSha256": "8088058cd60df2801850cf036e5eb85974460ab1f29de101b29092c7a953754d",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "mexican-day-of-dead-marigold",
+      "sourceSha256": "7f7ce0e2c42a56b30669d0108dbef0793aa51ac5e5362e1c0566d5ed4f627e03",
+      "bundledSha256": "974293f9680d295c31b64627b6a301af9c57b168f37814ffdf9025bfe55a8c6f",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "mexican-frida-blue-house-1930",
+      "sourceSha256": "7285130c31004f0ea9c5af625f9b1240b210bf24f5308c044bc78beb59704921",
+      "bundledSha256": "0052cdf7b9d1d9c77c342cde27807c56718c9893f4d20ceb6caf7475498d794b",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "midjourney-art",
+      "sourceSha256": "581fb49ce563cfe8bc7ea6b0aa9f42de027335354f0b9721e1e3e529ef1c7453",
+      "bundledSha256": "581fb49ce563cfe8bc7ea6b0aa9f42de027335354f0b9721e1e3e529ef1c7453",
+      "sourceTier": "free"
+    },
+    {
+      "id": "minecraft-creeper-2011",
+      "sourceSha256": "47c9a99dfa38cf8f19e6cdbcdc533acb4c83e54fd2cd075b59a8c97e37f588b5",
+      "bundledSha256": "ef506cfebfdff2bb074f1c6b108786234181093f09a8bd0e073450e92b2449d0",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "miro-collab-yellow",
+      "sourceSha256": "239f3dba7738de2ebfdd12c042f00ecd47821a6322c69648276cba2887b25b6c",
+      "bundledSha256": "399cc17a6d3d349c8af5af59ae9445da2d85ebc97551415bc47add4f2c075ac6",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "moroccan-majorelle-blue",
+      "sourceSha256": "5332ee57caef21421eb65a6dea609d895220b98950b836139086e862029bbe2d",
+      "bundledSha256": "f0b3735b149ef2f147931d975efbf3f928e49feb93423ab5beb1f4bb5e4bb3dd",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "muji-japan",
+      "sourceSha256": "4da5df19e2d9c2ffefaca230d50e1bd08ffa4bb4d1920a600fd093d0c42fd6d1",
+      "bundledSha256": "4da5df19e2d9c2ffefaca230d50e1bd08ffa4bb4d1920a600fd093d0c42fd6d1",
+      "sourceTier": "free"
+    },
+    {
+      "id": "national-geographic",
+      "sourceSha256": "dad68862250358fcd3bd1e87fd324ff24f13c5403258d0f90ff348ebada64c8c",
+      "bundledSha256": "86d51711557df7845cac0877cf31315eecee253b598bdbb6f9a8f11669227b89",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "ndebele-geometric-mural",
+      "sourceSha256": "1a476a960a9518a8edd22d4272bd46388c7a3de90e87c30b80ee5b8b8d0bcb4e",
+      "bundledSha256": "1a476a960a9518a8edd22d4272bd46388c7a3de90e87c30b80ee5b8b8d0bcb4e",
+      "sourceTier": "free"
+    },
+    {
+      "id": "nike-just-do-it-1988",
+      "sourceSha256": "6d66f2ae374fa2ca1434befc67cb44753ba61a8ad42583e41a0c3a7af2b47a13",
+      "bundledSha256": "bbeb4f41860ddc6f059fe0725d8848f95c749f991af1025af03b4b5dd1070cac",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "nintendo-game-boy",
+      "sourceSha256": "8f03b432fb1b4344e462d33ad23550f2bddd90f5126f801e452e66663bbb10d4",
+      "bundledSha256": "d6bcc3ad414d3f9c556ae1463d82f17890c15ecb45f3cd237dd59c0e7b421c21",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "notion-modern",
+      "sourceSha256": "70aba13dea88e34deabf6688ffc93e74d5cfe17440dd150d98d952501a55fe68",
+      "bundledSha256": "70aba13dea88e34deabf6688ffc93e74d5cfe17440dd150d98d952501a55fe68",
+      "sourceTier": "free"
+    },
+    {
+      "id": "pakistani-truck-art",
+      "sourceSha256": "c3106cd661c1f8a793dc716ce811cb561d23b10cb8852c48571443255947d0bd",
+      "bundledSha256": "b768b7a404eee27ca900ba899736200456900a9a1cae58c47a064025875d942c",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "peanuts-comic-schulz-1950",
+      "sourceSha256": "cf2b8fbcb78ba3ed19f4a712af5765654e7e0e6261e8144942a582fa09c8cb5a",
+      "bundledSha256": "c2daacea5a4a2d21d99aa3ddfff8220d6ea2736dcfb2f104d64e3debcc7daa9a",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "persian-isfahan-carpet-medallion",
+      "sourceSha256": "5bff706e72f3e5dfaaa700fe7a61d5274b9aa6c25decd81c9a63c491af97b8a7",
+      "bundledSha256": "33f81eabeb033c06c963fdda51153babb7e62ee17d47a89e9dde407fa3c0b655",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "persian-nastaliq-calligraphy",
+      "sourceSha256": "c2408ed08d0f6637b172627fa96d1e3adbb3741beaee634ded41a90fa5501198",
+      "bundledSha256": "eb0af6b41636cdda3f3eaab6afb8e47297f0339403f468846f0d031ba422ddde",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "pixel-art-8bit",
+      "sourceSha256": "2473675d9cc46c87782810c96e9b1c2451f330c7125505084daa76b181786994",
+      "bundledSha256": "5c7d2a7019490061918d0e4712d3ba1054f4df38d886c28e3b4a6603cbc457bd",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "pokemon-game-boy-1996",
+      "sourceSha256": "3d30702f1ecdff05fb87c6efe48637138a8ffdabb4b13c0fae830d375cc148b6",
+      "bundledSha256": "79e6a96eb95a9607f717b8942ee2ebeb0c77160358157177d5a667876764b4af",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "polaroid-instant",
+      "sourceSha256": "20de87cbb47bd1b690f492e96843288474db21eea7a2ade258e29048f1c7fbed",
+      "bundledSha256": "c3d487f2c90065d6ad5dae0bfc74c184cc0b66406421c49f639baa07c715f547",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "polish-poster-school-1960s",
+      "sourceSha256": "bbae46ad70a29e169e75f043362eb62df1210f9c05e07b5765e45a778f630b86",
+      "bundledSha256": "bbae46ad70a29e169e75f043362eb62df1210f9c05e07b5765e45a778f630b86",
+      "sourceTier": "free"
+    },
+    {
+      "id": "russian-matryoshka-1890",
+      "sourceSha256": "11e62279f5affeb63b8c66251d160eb32aaca55901569f8a554be92ff5657236",
+      "bundledSha256": "617f77d872a9b2accd6604521f1484f3f5b652523e023bb96d1002a8049a01e6",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "sailor-moon-shoujo-1992",
+      "sourceSha256": "47b512052a53f9c086320351f11fd5b0ec89965f8cc0b2b5058d8d4295750c60",
+      "bundledSha256": "7a36dfb96de69c97bfb605bd9d9a156a7d4c959e60f1cd8e7c7d7c7872cd833b",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "shaker-furniture-1850-minimalist",
+      "sourceSha256": "00d3930b4818f9e6c7db9548359f04d24ad17759738137676bff899359c18b94",
+      "bundledSha256": "f38f6b865bac4368cee68c5e080f1e380c38aa5e95a0d9a16a3d9ee5f5a0b5d2",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "slack-2019",
+      "sourceSha256": "f56fc6f85a496813ad4662ab72f924be25613d233ada8d64d98b3e9b7d1e7ef3",
+      "bundledSha256": "f56fc6f85a496813ad4662ab72f924be25613d233ada8d64d98b3e9b7d1e7ef3",
+      "sourceTier": "free"
+    },
+    {
+      "id": "solarpunk-greenhouse-2020",
+      "sourceSha256": "929e008ee6c1fcdc89af6fdf25e4df977dae59273bc5189d43ba14056a3b2818",
+      "bundledSha256": "a3161b52b6a914ef3b32a90ca34a9f7aa888e9ded2a054ca0710173eb51eb572",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "solarpunk-utopia-poster-2014",
+      "sourceSha256": "81c7aab9b43087315809f0d1180c9ecc6a5f8ca6814c2652d6caa2a3723f6b24",
+      "bundledSha256": "858a20a7f8e3dc26de81dd7cbbcea927c29fd10eca2873455a63f13bea43f8fb",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "spotify-dark",
+      "sourceSha256": "231c2b557b7dac3e487aa41f2300a87335b7eb74231f3202b60de3bbd1edd4e7",
+      "bundledSha256": "231c2b557b7dac3e487aa41f2300a87335b7eb74231f3202b60de3bbd1edd4e7",
+      "sourceTier": "free"
+    },
+    {
+      "id": "spotify-rainbow-wrap-2023",
+      "sourceSha256": "e4d85c4b22e9a5543c61df888815c379a012ca8c2e79c1e9db761e1fac4ba735",
+      "bundledSha256": "6aa60ded5e3fcb63f62da3f62da486ba7963e183a25cc48ff38a4c80e8b3dd63",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "squid-game-2021",
+      "sourceSha256": "f36850c475acb9815b308c42fcc4ce13e952c7b315a8dd4196b15b050fc485dd",
+      "bundledSha256": "72fd6fa68b88844a9fa8a78ad29bd073f464280c4877160777810f4c4b14eda6",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "star-trek-lcars-1987",
+      "sourceSha256": "7e8508d54d444490750fb4f5526140ac8b6e3052f172b39916921e7c910c05d0",
+      "bundledSha256": "b1418a1f1c018f2b1a2794714f1114f2d750774a322c49cfb450b8182e462749",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "starbucks-1971-siren",
+      "sourceSha256": "81fce3316187641fc8759e7b71f7c9dd325e27c88ae16a10f3ae806502e73973",
+      "bundledSha256": "8d3e45eafc49e40c802ce5206793fef3e090362cf2cb4991f7b903d5dab65571",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "stripe-2024",
+      "sourceSha256": "4e3b83975e3e730452f097a7187e37474aeb47a36f2affb8406bbfaeaad40162",
+      "bundledSha256": "4e3b83975e3e730452f097a7187e37474aeb47a36f2affb8406bbfaeaad40162",
+      "sourceTier": "free"
+    },
+    {
+      "id": "studio-ghibli-miyazaki",
+      "sourceSha256": "f1747cdcf7dfd82e7ef2a22d07f7d3ef21c2dfba4515d778f7e4c71bfd814bcd",
+      "bundledSha256": "750dbbeca2a20ce568fe6d0d13f75fe724f6817ff233062ec30675ad01fbd2bc",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "substack-2023",
+      "sourceSha256": "08271c3c168dd29911620b3ee10bd56c43e32eb82ee3c0e9688760e6b6739dfb",
+      "bundledSha256": "08271c3c168dd29911620b3ee10bd56c43e32eb82ee3c0e9688760e6b6739dfb",
+      "sourceTier": "free"
+    },
+    {
+      "id": "sumi-e-ink-wash-zen",
+      "sourceSha256": "c790c8a31e4a001a1d40a8d402c8fd5f25c56660859047c5985830a4b86a5525",
+      "bundledSha256": "3dcacd7b990a9f1a43b5c21e280ce3ba38f5f3bda9643949b1652bb5f60fbf20",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "swiss-international",
+      "sourceSha256": "408983982ee081db5729c49451c6e220e349ffc8ceaef3147f0ff001b8c00c5f",
+      "bundledSha256": "408983982ee081db5729c49451c6e220e349ffc8ceaef3147f0ff001b8c00c5f",
+      "sourceTier": "free"
+    },
+    {
+      "id": "swiss-rail-sbb-clock-1944",
+      "sourceSha256": "82502ac8419c105ffa18ae6cafb93214a7260a9cfd7eac0f43367b026805b731",
+      "bundledSha256": "e9b4e4ed3e5692068754ac121dea14449a569b02a1a726d54280497325ec5764",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "synthwave-outrun-1984",
+      "sourceSha256": "430ee4ae35f7ddb82623ba4f999c06afc4c1ed624043baae92bb3c036fd794c2",
+      "bundledSha256": "430ee4ae35f7ddb82623ba4f999c06afc4c1ed624043baae92bb3c036fd794c2",
+      "sourceTier": "free"
+    },
+    {
+      "id": "tarot-deck-marseille-1700",
+      "sourceSha256": "07b7e53560266ddcb00094b5d61cd6807f2a9e07e8b0f60c4ba1e9c73f4534dc",
+      "bundledSha256": "b3adba59bdfe094b43709258ad90aa1e129058182fe4c722a8620f12858fcae2",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "terminal-vim-dracula-2014",
+      "sourceSha256": "0e98ffabca2830ba77663c1f16256bb1ef49f257a5b862c43eff5bdfe1e1b1ab",
+      "bundledSha256": "3958ffa749e572c382db20051fb197e56f140cc881a20f4f29a2862089355300",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "the-matrix-green-code-1999",
+      "sourceSha256": "919426d6ddd2d5812239b8c01daa58ca81d9b438d3d7d60e106618a453652047",
+      "bundledSha256": "e79b2eb244abd8a84fd61642a2082465d9cfff597ba01706e88c2dc2dbfc01fa",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "tibetan-thangka-mandala-1500",
+      "sourceSha256": "3635e4e7fa26387330b730f75a393f28fe7d83299ad1889233fa6de3c33c9f09",
+      "bundledSha256": "1712f7c0cce1e0c31b1e48aadc16e27c3c5490247419093689ddb58f4dca6248",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "tiffany-blue",
+      "sourceSha256": "d3a1ca6c9e33dc5a1b5aa4673464df29af0a91c2df2c256e3ae79cbb2557eb21",
+      "bundledSha256": "d3a1ca6c9e33dc5a1b5aa4673464df29af0a91c2df2c256e3ae79cbb2557eb21",
+      "sourceTier": "free"
+    },
+    {
+      "id": "times-new-roman-morison-1932",
+      "sourceSha256": "bc005311d0458ae4c0dc13af9c5ffddb81c675790d9fef8b3b5383fcbef5e535",
+      "bundledSha256": "7c426933aa97e52c80566fa2ce3c7bbc40bcd2a8ea014c1c2d46357fdde9976a",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "ukrainian-pysanka-wax-egg",
+      "sourceSha256": "26ca4b6f65d8a3edf0162d5ee85a58878a0042601004d279e507c277a151e01f",
+      "bundledSha256": "a1e786ffa7d84f8b2133799e536e8dd8defc7eaaf002dbb2516200c803dc7cd4",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "vaporwave-tumblr-2012",
+      "sourceSha256": "9f09285a2334b4126901ecb5ef0e0073dda1de0fd35cdee12e543a8e698f343f",
+      "bundledSha256": "9f09285a2334b4126901ecb5ef0e0073dda1de0fd35cdee12e543a8e698f343f",
+      "sourceTier": "free"
+    },
+    {
+      "id": "wabi-sabi-japanese",
+      "sourceSha256": "be3258e979bce8e06837761602f66646c1361742841eb3b36286ed769d4fbb61",
+      "bundledSha256": "be3258e979bce8e06837761602f66646c1361742841eb3b36286ed769d4fbb61",
+      "sourceTier": "free"
+    },
+    {
+      "id": "wes-anderson-symmetrical",
+      "sourceSha256": "dfd722754c5d956bdf52da69f71c686fc28e12cd8638b2cf91884b1d927520c6",
+      "bundledSha256": "2079d0f3f0b5cfa809a5f7af3183657dd8004201d786c45c9a31b73e2384be0c",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "west-african-kente-cloth",
+      "sourceSha256": "3dbe2fff78a070ede2e535e7bcbe18f939c081711f6ba00d329af7650222f222",
+      "bundledSha256": "4d67e688ed23c4a24304f663cded451584315f47f514cf8218f09dc8508ddf85",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "windows-98-vaporwave",
+      "sourceSha256": "063431410c9438ef08d53ec59fcab0bbd488294a92ec50cac65b46c995601882",
+      "bundledSha256": "ba8bb8599239d307b71ef84118121e1d9d7326b41759e8407365190a9b4a2418",
+      "sourceTier": "pro"
+    },
+    {
+      "id": "y2k-aqua-2000",
+      "sourceSha256": "535425e3f4c7b53655393a8890703191c9a4c4efc3f0b3fed2e61f76777a862d",
+      "bundledSha256": "535425e3f4c7b53655393a8890703191c9a4c4efc3f0b3fed2e61f76777a862d",
+      "sourceTier": "free"
+    }
+  ]
+}

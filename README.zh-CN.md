@@ -3,7 +3,7 @@
 [English](README.md) · **中文**
 
 > 给 AI 用的设计风格库。
-> 内置 30 套免费主题 · 完整 640+ 套在 [designbycurio.com](https://designbycurio.com)。
+> 内置 105 套免费主题 · 完整 2,233 套在 [designbycurio.com](https://designbycurio.com)。
 
 <table>
 <tr>
@@ -50,11 +50,15 @@
 </tr>
 </table>
 
+以上为部分预览。**[查看全部 105 套内置主题 →](designs/INDEX.md)**
+
+目录核验于 2026-09-18：共 2,233 套，免费 105 套，Pro 2,128 套。
+
 <sub>点击任意预览图查看完整的设计系统。</sub>
 
 ---
 
-**Curio** 是一座精选设计风格库——包豪斯、Stripe、无印良品、孟菲斯、蒸汽波、北斋浮世绘、装饰艺术，以及另外约 640 套。每一套都是完整的 token 化设计系统（色彩、字体、间距、阴影、组件），**并且**附带文化考据和可直接使用的 CSS 技法。
+**Curio** 是一座精选设计风格库——包豪斯、Stripe、无印良品、孟菲斯、蒸汽波、北斋浮世绘、装饰艺术，以及众多其他风格。每一套都是完整的 token 化设计系统（色彩、字体、间距、阴影、组件），**并且**附带文化考据和可直接使用的 CSS 技法。
 
 **本 skill** 给你的 AI agent 提供把任何一套 Curio 设计应用到任何 HTML 形态所需的一切——演示文稿、官网落地页、海报、报告、社交卡片、邮件、Dashboard，或者任何你能用 HTML 渲染的东西。你提需求，AI 装裱。
 
@@ -63,7 +67,7 @@
 ### Claude Code
 
 ```bash
-git clone https://github.com/voltwake/curio-design-skill.git ~/.claude/skills/curio
+git clone https://github.com/designbycurio/curio-design-skill.git ~/.claude/skills/curio
 ```
 
 之后在任何 Claude Code session 里说：`"用 Curio 包豪斯做一份 10 页 pitch deck"` —— skill 会自动被 `curio` / `用 Curio` / 主题名 / 输出形态等触发词激活。
@@ -114,9 +118,9 @@ curio-design-skill/
 ├── CLAUDE.md  / AGENTS.md  ← 1 行 @SKILL.md redirect (Claude Code / Codex)
 ├── LICENSE
 │
-├── designs/                ← 30 套免费设计系统
+├── designs/                ← 105 套免费设计系统
 │   ├── INDEX.md            ← 简表 (出处 · 气质 · 明暗)
-│   └── <id>.md             ← 30 份完整 DESIGN.md
+│   └── <id>.md             ← 105 份完整 DESIGN.md
 │
 └── examples/               ← 可选的结构参考 (不是模板)
     ├── README.md
@@ -152,12 +156,12 @@ curio-design-skill/
 
 ## 想要更多设计?
 
-这 30 套是免费层。完整的 Curio 库有 **640+** 套主题,覆盖每个重要的设计流派、每个时代、每个地区、每种气质流派。
+这 105 套是免费层。完整的 Curio 库有 **2,233** 套主题,覆盖每个重要的设计流派、每个时代、每个地区、每种气质流派。
 
 **[浏览完整画廊 →](https://designbycurio.com/zh/)**
 
 Pro 解锁:
-- 完整画廊 (640+ 主题)
+- 完整画廊 (2,233 主题)
 - 分享链接 → 可以直接交给任何 AI agent
 - 直接下载 `DESIGN.md` 和 `tokens-studio.json`
 - 分享链接生成额度
@@ -173,7 +177,7 @@ Curio 的核心信念:好设计应当是一座**库**,而不是一项**服务**�
 
 ## License
 
-MIT。30 套内置设计任何用途(商业 · 个人 · 二次创作)都免费。designbycurio.com 上的 610+ Pro 设计按席位订阅。
+MIT。105 套内置设计任何用途(商业 · 个人 · 二次创作)都免费。designbycurio.com 上的 2,128 Pro 设计按席位订阅。
 
 ## Credits
 

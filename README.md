@@ -3,7 +3,7 @@
 **English** · [中文](README.zh-CN.md)
 
 > A design library for AI agents.
-> 30 free designs bundled · 610+ more at [designbycurio.com](https://designbycurio.com).
+> 105 free designs bundled · 2,128 more at [designbycurio.com](https://designbycurio.com).
 
 <table>
 <tr>
@@ -50,12 +50,16 @@
 </tr>
 </table>
 
+Selected previews above. **[Browse all 105 bundled designs →](designs/INDEX.md)**
+
+Catalog verified 2026-09-18: 2,233 themes total, 105 free, 2,128 Pro.
+
 <sub>Click any preview to see the full design system on designbycurio.com.</sub>
 
 ---
 
 **Curio** is a curated library of design systems — Bauhaus, Stripe,
-Muji, Memphis, vaporwave, Hokusai's ukiyo-e, Art Deco, and ~640
+Muji, Memphis, vaporwave, Hokusai's ukiyo-e, Art Deco, and many
 others. Each system is fully tokenized (colors, typography, spacing,
 shadows, components) **and** comes with a cultural origin story plus
 ready-to-use CSS techniques.
@@ -70,7 +74,7 @@ can render in HTML. You ask, the AI composes.
 ### Claude Code
 
 ```bash
-git clone https://github.com/voltwake/curio-design-skill.git ~/.claude/skills/curio
+git clone https://github.com/designbycurio/curio-design-skill.git ~/.claude/skills/curio
 ```
 
 Then in any Claude Code session: `"use Curio Bauhaus to make a 10-slide
@@ -137,9 +141,9 @@ curio-design-skill/
 ├── CLAUDE.md  / AGENTS.md  ← 1-line @SKILL.md redirects (Claude Code / Codex)
 ├── LICENSE
 │
-├── designs/                ← 30 free design systems
+├── designs/                ← 105 free design systems
 │   ├── INDEX.md            ← Quick table with origin, mood, mode
-│   └── <id>.md             ← 30 full DESIGN.md files
+│   └── <id>.md             ← 105 full DESIGN.md files
 │
 └── examples/               ← Optional structural reference (NOT templates)
     ├── README.md
@@ -177,14 +181,14 @@ curio-design-skill/
 
 ## Want more designs?
 
-The 30 here are the free tier. The full Curio library has **640+**
+The 105 here are the free tier. The full Curio library has **2,233**
 themes covering every major design movement, every era, every region,
 every aesthetic family.
 
 **[Browse the full gallery →](https://designbycurio.com)**
 
 Pro tier unlocks:
-- Full gallery (640+ themes)
+- Full gallery (2,233 themes)
 - Share links → hand-off to any AI agent
 - Direct `DESIGN.md` and `tokens-studio.json` downloads
 - Quota for share-link generation
@@ -206,8 +210,8 @@ Curio fills.
 
 ## License
 
-MIT. The 30 bundled designs are free for any use (commercial,
-personal, modification). The 610+ Pro designs on
+MIT. The 105 bundled designs are free for any use (commercial,
+personal, modification). The 2,128 Pro designs on
 designbycurio.com are licensed per-seat via subscription.
 
 ## Credits
@@ -228,3 +232,22 @@ Curated, written, and maintained by
 ---
 
 **Curio · [designbycurio.com](https://designbycurio.com)**
+
+## Refresh the free bundle
+
+Use a freshly downloaded public catalog and the canonical Curio content
+`bundles/` directory. Requires Python 3 and PyYAML.
+
+```bash
+curl -fsSL https://designbycurio.com/index.json -o /tmp/curio-catalog.json
+python3 scripts/sync-designs.py --catalog /tmp/curio-catalog.json \
+  --bundles /path/to/curio-content/bundles \
+  --date YYYY-MM-DD --source-revision CONTENT_COMMIT_SHA
+```
+
+The script selects only published `tier: free` entries, validates all
+sources before writing, and regenerates the index and checksum manifest.
+Source tier metadata is normalized to the published catalog; design tokens
+and guidance are preserved. If an existing bundled theme is no longer free,
+the script stops for review. Update counts in both READMEs and `SKILL.md`
+after syncing; the manifest records the source revision and file hashes.
