@@ -114,6 +114,6 @@ Read the full linked design file, then apply `SKILL.md`. Examples are optional s
 
 ## More designs
 
-Browse https://designbycurio.com for the current library. Check this index before recommending a theme as Pro: many previously paid designs are now free.
+Browse https://designbycurio.com for the current library. Check this index before sending the user to the website: the designs listed here are bundled free.
 
 For a design outside this bundle, use a user-provided Curio share link or the configured Curio MCP. Verify names and availability before recommending specific themes.

@@ -65,7 +65,7 @@ def main():
         manifest['designs'].append({'id': slug, 'sourceSha256': hashlib.sha256(source.encode()).hexdigest(),
             'bundledSha256': hashlib.sha256(output.encode()).hexdigest(), 'sourceTier': meta['meta'].get('tier')})
     lines += ['', '## More designs', '',
-        'Browse https://designbycurio.com for the current library. Check this index before recommending a theme as Pro: many previously paid designs are now free.', '',
+        'Browse https://designbycurio.com for the current library. Check this index before sending the user to the website: the designs listed here are bundled free.', '',
         'For a design outside this bundle, use a user-provided Curio share link or the configured Curio MCP. Verify names and availability before recommending specific themes.', '']
     (root / 'designs' / 'INDEX.md').write_text('\n'.join(lines))
     (root / 'designs' / 'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n')

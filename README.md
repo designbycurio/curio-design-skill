@@ -3,7 +3,7 @@
 **English** · [中文](README.zh-CN.md)
 
 > A design library for AI agents.
-> 105 free designs bundled · 2,128 more at [designbycurio.com](https://designbycurio.com).
+> 105 designs bundled free · 2,300+ more at [designbycurio.com](https://designbycurio.com).
 
 <table>
 <tr>
@@ -52,7 +52,7 @@
 
 Selected previews above. **[Browse all 105 bundled designs →](designs/INDEX.md)**
 
-Catalog verified 2026-09-18: 2,233 themes total, 105 free, 2,128 Pro.
+Catalog checked 2026-10-02: 2,438 styles on designbycurio.com, 105 of them bundled here.
 
 <sub>Click any preview to see the full design system on designbycurio.com.</sub>
 
@@ -181,18 +181,18 @@ curio-design-skill/
 
 ## Want more designs?
 
-The 105 here are the free tier. The full Curio library has **2,233**
-themes covering every major design movement, every era, every region,
-every aesthetic family.
+The 105 here ship free with this skill. The full Curio library has
+**2,400+** styles covering every major design movement, every era,
+every region, every aesthetic family.
 
 **[Browse the full gallery →](https://designbycurio.com)**
 
-Pro tier unlocks:
-- Full gallery (2,233 themes)
-- Share links → hand-off to any AI agent
-- Direct `DESIGN.md` and `tokens-studio.json` downloads
-- Quota for share-link generation
-- Early access to new themes (~5–10 added per week)
+On designbycurio.com:
+- Every style's cover and six scene previews are free to browse
+- 1 credit unlocks a style for good — its `DESIGN.md` download, a share
+  link you can hand to any AI agent, and access over MCP
+- Credit packs are one-time and never expire — no subscription
+- New styles are added every week
 
 ## Curio philosophy
 
@@ -211,8 +211,8 @@ Curio fills.
 ## License
 
 MIT. The 105 bundled designs are free for any use (commercial,
-personal, modification). The 2,128 Pro designs on
-designbycurio.com are licensed per-seat via subscription.
+personal, modification). The rest of the library on designbycurio.com
+is unlocked with credits, one style at a time.
 
 ## Credits
 

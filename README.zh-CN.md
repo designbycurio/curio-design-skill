@@ -3,7 +3,7 @@
 [English](README.md) · **中文**
 
 > 给 AI 用的设计风格库。
-> 内置 105 套免费主题 · 完整 2,233 套在 [designbycurio.com](https://designbycurio.com)。
+> 内置 105 套免费主题 · 另有 2,300+ 套在 [designbycurio.com](https://designbycurio.com)。
 
 <table>
 <tr>
@@ -52,7 +52,7 @@
 
 以上为部分预览。**[查看全部 105 套内置主题 →](designs/INDEX.md)**
 
-目录核验于 2026-09-18：共 2,233 套，免费 105 套，Pro 2,128 套。
+目录核验于 2026-10-02：designbycurio.com 共 2,438 套，本仓内置其中 105 套。
 
 <sub>点击任意预览图查看完整的设计系统。</sub>
 
@@ -156,16 +156,15 @@ curio-design-skill/
 
 ## 想要更多设计?
 
-这 105 套是免费层。完整的 Curio 库有 **2,233** 套主题,覆盖每个重要的设计流派、每个时代、每个地区、每种气质流派。
+这 105 套随 Skill 免费附带。完整的 Curio 库有 **2,400+** 套风格,覆盖每个重要的设计流派、每个时代、每个地区、每种气质流派。
 
 **[浏览完整画廊 →](https://designbycurio.com/zh/)**
 
-Pro 解锁:
-- 完整画廊 (2,233 主题)
-- 分享链接 → 可以直接交给任何 AI agent
-- 直接下载 `DESIGN.md` 和 `tokens-studio.json`
-- 分享链接生成额度
-- 新主题抢先体验 (每周新增 ~5-10 套)
+在 designbycurio.com 上:
+- 每套风格的封面和 6 张场景图都能免费看
+- 1 积分永久解锁一套风格:下载 `DESIGN.md`、生成转发给任何 AI agent 的链接、通过 MCP 取用
+- 积分包一次性购买、永不过期,不用订阅
+- 每周上新
 
 ## Curio 哲学
 
@@ -177,7 +176,7 @@ Curio 的核心信念:好设计应当是一座**库**,而不是一项**服务**�
 
 ## License
 
-MIT。105 套内置设计任何用途(商业 · 个人 · 二次创作)都免费。designbycurio.com 上的 2,128 Pro 设计按席位订阅。
+MIT。105 套内置设计任何用途(商业 · 个人 · 二次创作)都免费。designbycurio.com 上的其余风格用积分逐套解锁。
 
 ## Credits
 
